@@ -77,7 +77,7 @@ Capítulo IV - Dos critérios de admissão de novos membros efetivos
 
 Os seguintes requisitos são condições necessárias para ingresso no GTI como membra(o) efetiva(o):
 
-I. Associação ou filiação ao Partido Pirata (PIRATAS);  
+I. Associação ou filiação ao Partido Pirata (PIRATAS) concluída ou em processo;  
 II. Interesse ou familiaridade com administração de sistemas computacionais, desenvolvimento, ferramentas de trabalho de Tecnologia da Informação;  
 III. Disposição para aprendizado ou conhecimento de uso de sistemas para a internet para organização interna;  
 IV. Leitura e aceitação deste Regimento Interno.  
@@ -98,6 +98,10 @@ I. Definição de método de votação em reunião ordinária, com quorum mínim
 II. Cumprir com os mesmos critérios e requisitos para um(a) membra(o) efetiva(o);  
 III. Publicidade do resultado em meio oficial do PIRATAS e abertura para contestação do nome indicado por todas(os) associadas(os) do PIRATAS por prazo indefinido.  
 
+#### §3º:
+
+Em caso da associção e/ou filiação não se efetivar o(a) membra(o) efetiva(o) deverá ser destituída dessa função dentro do GTI.
+
 Capítulo V - Das Sanções Disciplinares
 --
 
@@ -107,7 +111,7 @@ A não participação em reuniões, ferramentas de organização e em canais de 
 
 #### §1º:
 
-Nenhum(a) membra(o) efetiva(o) do GTI deve ser obrigada(o) a participar de ferramentas de organização ou canais de comunicação caso não aceite seus termos de uso, política de privacidade, ou conduta, cabendo à(ao) articulador(a) garantir meios para que todas as pessoas interessadas participem.
+Nenhum(a) membra(o) efetiva(o) do GTI deve ser obrigada(o) a participar de ferramentas de organização ou canais de comunicação caso não aceite seus termos de uso, política de privacidade, ou conduta, cabendo à(ao) articulador(a) garantir meios para que todas membra(o)s efetiva(o)s participem.
 
 #### §2º:
 
